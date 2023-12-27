@@ -10,9 +10,9 @@ function calculate() {
 
   if (num1 == "001") {
     result = 10000 * num2;
-  } else if ((num1 = "002")) {
+  } else if ((num1 == "002")) {
     result = 20000 * num2;
-  } else if ((num1 = "003")) {
+  } else if ((num1 == "003")) {
     result = 30000 * num2;
   }
   // const result = harga.key[num1] + num2;
